@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "maple",
   "name": "Mint Starter Kit",
   "colors": {
     "primary": "#16A34A",
@@ -24,7 +24,7 @@
   },
   "logo": {
     "light": "/logo/logo.png",
-    "dark": "/logo/dark.svg",
+    "dark": "/logo/logo.png",
     "href": "http://agentearth.ai/"
   },
   "contextual": {
